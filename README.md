@@ -1,1 +1,0 @@
-# amplsched1
